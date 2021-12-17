@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    border: 2px solid blue;
+}
+.parent>.card{
+padding: 8%;
+margin: 2%;
+border: 2px solid violet; width: 20%;
+}
+img{
+    display: block;
+    width: 200px;
+    border-radius: 5%;
+    border: 2px solid green;
+}
